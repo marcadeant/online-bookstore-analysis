@@ -6,13 +6,13 @@ Furthermore, I had acces on transaction's data, meaning that all customer purcha
 
 # Customer, product and transaction data
 
-LaPage was agreed sharing an example of their data. Here, I expose [post-treatment](https://github.com/marcadeant/online-bookstore-analysis/blob/main/Jupyter%20Labs/Post-treatment.ipynb) data I used for buisness Analysis  
+LaPage was agreed sharing an example of their data. Here, I expose [post-treatment](https://github.com/marcadeant/online-bookstore-analysis/blob/main/Jupyter%20Labs/Post-treatment.ipynb) data I used for business Analysis  
 
 1. [Customer example's data](https://github.com/marcadeant/online-bookstore-analysis/blob/main/Post-treatment%20Data/customer_df_clean)
 2. [Product example's data](https://github.com/marcadeant/online-bookstore-analysis/blob/main/Post-treatment%20Data/product_df_clean)
 3. [Transaction example's data](https://github.com/marcadeant/online-bookstore-analysis/blob/main/Post-treatment%20Data/transaction_df_clean)
 
-# Buisness Analysis
+# Business Analysis
 
 First analysis treated on turnover time's evolution during 2021-2022's sell period. I did basic statistical analysis to identify best/worse sell's period. 
 I also did moving average analysis to find out tendancy and seasonnality. More generally, I used Lorenz's Curve to understand how much is customer proportion responsible of profit.
