@@ -1,4 +1,4 @@
-# online-bookstore-analysis
+# Online-bookstore-analysis
 
 For the purporse of my professional training, I worked as Data Analyst for an online bookstore named LaPage (fictional bookstore).
 LaPage give me full acces on customer and product's data to build some online-behavior customer's analysis. Analysis allowed to get deeper into our customer's knowledges and reforce our marketing strategies. 
@@ -8,9 +8,9 @@ Furthermore, I had acces on transaction's data, meaning that all customer purcha
 
 LaPage was agreed sharing an example of their data as follow :
 
-1. [Customer example's data]
-2. [Product example's data]
-3. [Transaction example's data]
+1. [Customer example's data](#)
+2. [Product example's data](#)
+3. [Transaction example's data](#)
 
 # Buisness Analysis
 
