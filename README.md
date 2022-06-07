@@ -6,7 +6,7 @@ Furthermore, I had acces on transaction's data, meaning that all customer purcha
 
 # Customer, product and transaction data
 
-LaPage was agreed sharing an example of their data as follow :
+LaPage was agreed sharing an example of their data. Here, I expose [post-treatment]() data I used for buisness Analysis  
 
 1. [Customer example's data](#)
 2. [Product example's data](#)
@@ -15,7 +15,7 @@ LaPage was agreed sharing an example of their data as follow :
 # Buisness Analysis
 
 First analysis treated on turnover time's evolution during 2021-2022's sell period. I did basic statistical analysis to identify best/worse sell's period. 
-I also did moving average analysis to find out tendancy and seasonnality. More generally, I used Lorenz's Curve to understand how much is customer proportion responsible of profit generated.
+I also did moving average analysis to find out tendancy and seasonnality. More generally, I used Lorenz's Curve to understand how much is customer proportion responsible of profit.
 
 Second analysis used customer and product data to compute statistics based on customer behavior (What kind of client is interested by this product ?)
 All analysis can be find on [Analyse du CA]'s jupyter notebook.
