@@ -20,5 +20,5 @@ I also did moving average analysis to find out tendancy and seasonnality. More g
 Second analysis used customer and product data to compute statistics based on customer behavior (What kind of client is interested by this product ?)
 Customer behavior's analysis can be find [here](https://github.com/marcadeant/online-bookstore-analysis/blob/main/Jupyter%20Labs/Books-sale%20Analysis.ipynb).
 
-In additional, I realized hypothesis's test to make our customer behavior's interpretation true. I used **Pearson**, **Spearman**, **Qui-2** and **Anova** statistical's test with [python framework](https://github.com/marcadeant/all_stats) I developed. 
+In additional, I realized hypothesis's test to make our customer behavior's interpretation true. I used **Pearson**, **Spearman**, **Chi-2** and **Anova** statistical's test with [python framework](https://github.com/marcadeant/all_stats) I developed. 
 All hypothesis's tests are available [here](https://github.com/marcadeant/online-bookstore-analysis/blob/main/Jupyter%20Labs/Hyopthesis's%20test.ipynb)
